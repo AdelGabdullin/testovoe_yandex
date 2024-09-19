@@ -20,21 +20,21 @@
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
-            <version>4.5.13</version> <!-- обновленная версия -->
+            <version>4.5.13</version> 
         </dependency>
 
         <!-- Commons Codec для кодирования и декодирования -->
         <dependency>
             <groupId>commons-codec</groupId>
             <artifactId>commons-codec</artifactId>
-            <version>1.15</version> <!-- обновленная версия -->
+            <version>1.15</version> 
         </dependency>
 
         <!-- JUnit для тестирования -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
-            <version>5.8.2</version> <!-- обновленная версия -->
+            <version>5.8.2</version> 
             <scope>test</scope>
         </dependency>
     </dependencies>
